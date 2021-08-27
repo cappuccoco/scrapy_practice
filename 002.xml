@@ -1,0 +1,40 @@
+<div id="content_views" class="markdown_views prism-atom-one-dark">
+                    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+                        <path stroke-linecap="round" d="M5,0 0,2.5 5,5z" id="raphael-marker-block" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+                    </svg>
+                    <p>整理 | 郑丽媛<br> 出品 | CSDN（ID：CSDNnews）</p> 
+<p>俗语有言“人往高处走，水往低处流”，意为人要不断提升自我，追求更高的目标，这句话也适用于职场。</p> 
+<p>多年来兢兢业业，只为获得更高的职级、更好的待遇，这几乎是所有职场人的追求。因而，如果需要在“全职程序员 vs. 估值 50 亿美元公司的 CTO”中进行抉择，大多数人无疑会选择后者。</p> 
+<p>可有那么一个人却反其道而行之。他努力近十年只为抛却身上所有权利，不做 CEO，不当 CTO，只想回归最初那个单纯写代码的程序员身份。他就是 HashiCorp 创始人 Mitchell Hashimoto。</p> 
+<p>上周 Mitchell Hashimoto 通过博客对外宣布，他将辞去公司 CTO 一职并退出 HashiCorp 董事会，重新成为一名全职程序员。</p> 
+<p><img src="https://img-blog.csdnimg.cn/8e1a4b188ba64d76b205ff389aa6ef4e.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NzZG5uZXdz,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述"></p>
+<center>
+ （图片来自 The New Stack）
+</center>
+<p></p> 
+<h2><a id="9__0__50__CEO__14"></a>一、9 年，公司从 0 到 50 亿美元，他从 CEO 回到程序员</h2> 
+<p>2012 年，对基础设施工具充满热情的 Mitchell Hashimoto 与其大学期间认识的好友 Armon Dadgar 共同创立了 HashiCorp，主要为企业提供 DevOps 基础设施自动化工具。可作为公司创始人兼 CEO 的他，却感到了束缚。</p> 
+<p>身居高位，意味着承担的责任也就越多。Mitchell Hashimoto 在博客中说：“成为创始人的代价就是：你需要做所有你应该做的事，即便这其中有些内容你并不感兴趣。”诚如他所说，他的志并不在此，繁杂的管理工作令他无法投入到技术研发之中。</p> 
+<p>因此，自创立 HashiCorp 以来，Mitchell Hashimoto 就一直希望 HashiCorp 能成为一家无需他来日常管理运营的公司，能在合适时机引进其他人才接替他的位置以确保公司的弹性和持久性。</p> 
+<p>这个时机就是 2016 年。那一年，Mitchell Hashimoto 和联合创始人 Armon Dadgar 一起找到了 Dave McJannet。Dave McJannet 从 Mitchell Hashimoto 手中接过 CEO 职位带领公司向前发展，而 Mitchell Hashimoto 成为了更适合他的角色——CTO。</p> 
+<p>这 9 年来，Mitchell Hashimoto 创立的 HashiCorp 从无到有，发展至今已有近 1500 名员工，估值更是已超过 50 亿美元。而这期间，不论身为 CEO 还是 CTO，Mitchell Hashimoto 始终强调他仍是一名工程师。</p> 
+<p>如今，随着 HashiCorp 逐渐成熟，其领导团队也愈发优秀，Mitchell Hashimoto 认为是时候可以放下 CTO 的担子了：“经过近 10 年的学习和成长，我已准备好回到全职工程师的身份了。”</p> 
+<h2><a id="_29"></a>二、回归程序员的快乐</h2> 
+<p>Mitchell Hashimoto 在博客中写道，除了辞任 CTO，他也将不再担任公司执行团队和董事会成员，仅仅是一名充满热情和积极向上的 HashiCorp 员工和工程负责人，一位专注于工程的个人贡献者。</p> 
+<p>而 Mitchell Hashimoto 卸任后，Armon Dadgar 将接过 CTO 的重担，与 2016 年同样从 Mitchell Hashimoto 手中接过 CEO 的 Dave McJannet 共同带领 HashiCorp 走向更好。</p> 
+<p>多年来的心愿终于达成，回归到程序员的 Mitchell Hashimoto 十分兴奋：“我很高兴能将更多的时间投入到产品和工程上，可以与这些成员直接进行更多的交流和工作。”</p> 
+<p>Mitchell Hashimoto 相信，他的经验和专业知识能帮助到每一个人，公司也将因此迎来更大的机遇。</p> 
+<h2><a id="_41"></a>三、他的决定得到了业界支持</h2> 
+<p>Mitchell Hashimoto 毅然辞任 CTO 成为全职工程师的决定，在业界引起了不少热议，其中支持的声音尤为响亮。</p> 
+<p>VMware 首席工程师 Bryan Liles 是 Mitchell Hashimoto 认识近十年的好友，他很理解 Mitchell Hashimoto 的做法：“Mitch 本质上是个创造者。从早期致力于 Vagrant 到 HashiCorp 的其他所有产品，Mitch 一直都希望能在实地开发新产品。”</p> 
+<p>（注：Vagrant 是 HashiCorp 的第一个产品 ，也是后来 HashiCorp 众多产品的基础。）</p> 
+<p>Bryan Liles 补充道，在他与 Hashimoto 相识的十年间，Hashimoto 一直都在琢磨一些新想法，很高兴如今他终于有精力去实践了：“我认为这个选择很适合他，我也很高兴他能够做到。他并没有放弃 HashiCorp，公司仍然以他的名字命名。只是在公司发展不错的情况下，他要回去做一些他一直想做的事情。”</p> 
+<p>前任 MySQL CEO 和现任 HackerOne CEO Marten Mickos 也在推特表示尊重：“从 CEO 晋升为 CTO，再从 CTO 晋升为个人贡献者。Mitchell，你在指明道路！”</p> 
+<p><img src="https://img-blog.csdnimg.cn/cb4510a1345d410eb70181fa80ec233a.png#pic_center" alt="图片"><br> 除此之外，还有许多人也在推特上对 Mitchell Hashimoto 的决定予以支持：</p> 
+<p>Applitools 的高级开发者关系总监 Angie Jones ：</p> 
+<p><img src="https://img-blog.csdnimg.cn/3b09688723274ca497dd59ac022ba44b.png#pic_center" alt="图片"><br> 谷歌云平台首席开发者倡导者 Kelsey Hightower：</p> 
+<p><img src="https://img-blog.csdnimg.cn/eb752d2174294dd888fdf7d1a4981d8d.png#pic_center" alt="图片">Harvest 公司工程副总裁 Kevin Stewart：</p> 
+<p><img src="https://img-blog.csdnimg.cn/7e864c140cdd424099137a97fb311f70.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NzZG5uZXdz,size_16,color_FFFFFF,t_70#pic_center" alt="图片">从无到有，创建出市值超 50 亿美元的公司本就难得，在上升期还能摒弃一切回归本真更是可贵，这或许也就是 Mitchell Hashimoto 收获业界肯定的原因吧。</p> 
+<p>参考链接：</p> 
+<ul><li> <p>https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp</p> </li><li> <p>https://thenewstack.io/mitchell-hashimotos-move-from-cto-garners-r-e-s-p-e-c-t/</p> </li></ul>
+                </div>
